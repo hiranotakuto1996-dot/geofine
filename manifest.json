@@ -1,0 +1,29 @@
+{
+  "name": "GeoFine Alarm - ジオファインアラーム",
+  "short_name": "GeoFine",
+  "description": "アラーム設定と位置情報に基づいた判定を行うスマホ向けアプリです。",
+  
+  "start_url": "./index.html",
+  "scope": "./",
+
+  "display": "standalone",
+  "theme_color": "#06b6d4",
+  "background_color": "#0f172a",
+  "orientation": "portrait",
+
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+
+  "lang": "ja",
+  "categories": ["productivity", "utilities"]
+}
